@@ -1,2 +1,4 @@
 baseurl: /artstuff
 exclude: ['README.md']
+
+theme: jekyll-theme-slate
