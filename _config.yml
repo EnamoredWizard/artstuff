@@ -1,0 +1,2 @@
+baseurl: /artstuff
+exclude: ['README.md']
